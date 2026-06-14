@@ -1,2 +1,4 @@
 # Forgot-Kali-username-and-Password
-Reset kali linux password
+Once the Password is Forgot you see this `Message`
+![Alt Text](images/screenshot.png)
+
