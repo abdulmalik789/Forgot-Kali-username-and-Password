@@ -13,4 +13,5 @@ After you Press `E` you will come to screen like this And Scroll Down with the `
 
 Until you se this line 
 
+![Alt Text](images/screenshot.png)
 
