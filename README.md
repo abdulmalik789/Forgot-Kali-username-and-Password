@@ -5,4 +5,9 @@
 
 On this Booting Page Press the `UP` or `DOWN` arrow keys to saty `without Booting in again` Press the Letter `E` to go to edit Mood
 
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/1ad8ef79f6dd9921edb26bb491bd3fa131665933/s3.PNG)
+
+After you Press `E` you will come to screen like this And Scroll Down with the `arrow keys`
+
 ![Alt Text](images/screenshot.png)
+
