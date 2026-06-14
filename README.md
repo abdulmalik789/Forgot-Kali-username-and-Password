@@ -9,5 +9,8 @@ On this Booting Page Press the `UP` or `DOWN` arrow keys to saty `without Bootin
 
 After you Press `E` you will come to screen like this And Scroll Down with the `arrow keys`
 
-![Alt Text](images/screenshot.png)
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/da25cde80991fa8d5f7027bdfa877bd663bda579/s4.PNG)
+
+Until you se this line 
+
 
