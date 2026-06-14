@@ -49,11 +49,12 @@ And Finally Type `reboot -f` and reboot the system and use like Normal
 
 
 > [!TIP]
-> ## 🟢 This is a Highlighted Green Heading
+> ## 🟢 For not forgetting the password
 
 `TO not Forget your password save it on the Place`
-![Alt Text](images/screenshot.png)
 
-![Alt Text](images/screenshot.png)
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/bcd42b2cad3fd923644b7f2e43a3e4eaf93e00b6/B1.PNG)
 
-![Alt Text](images/screenshot.png)
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/bcd42b2cad3fd923644b7f2e43a3e4eaf93e00b6/B2.PNG)
+
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/bcd42b2cad3fd923644b7f2e43a3e4eaf93e00b6/B3.PNG)
