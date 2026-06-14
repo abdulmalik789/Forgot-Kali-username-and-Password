@@ -13,5 +13,47 @@ After you Press `E` you will come to screen like this And Scroll Down with the `
 
 Until you se this line 
 
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/839e2d264ead20bcedc62675945b3084bd12d064/s5.PNG)
+
+the Move the cursor to the corner of the line on the word and make read only `ro` to Read and write `rw` and type this `init= /bin/bash` and press `Ctrl + x`
+
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s6.PNG)
+
+Now you Will get `root` terminal without UI
+
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s7.PNG)
+
+Now Type `Passwd` and change the root password
+
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s8.PNG)
+
+Now type to see This `grep -i "\b$\b" /etc/shadow` to see the User names that are available
+
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s10.PNG)
+
+Now You will see the user Names below
+
+![Alt Text]( https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s11.PNG)
+
+Now Select your user name you gave and type `(yourusername) Passwd` and change the forgtten password of you account
+
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s12.PNG)
+
+Same as Above you cannot see the password when you are typing 
+
+![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s13.PNG)
+
+And Finally Type `reboot -f` and reboot the system and use like Normal 
+
+![Alt Text]( https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s14.PNG)
+
+
+> [!TIP]
+> ## 🟢 This is a Highlighted Green Heading
+
+`TO not Forget your password save it on the Place`
 ![Alt Text](images/screenshot.png)
 
+![Alt Text](images/screenshot.png)
+
+![Alt Text](images/screenshot.png)
